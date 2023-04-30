@@ -125,6 +125,27 @@ body {
     text-align: center;
     padding-top: 15px;
 }
+/* <!-- /////////////////////////////////////////// --> */
+.section3{
+    padding: 100px 70px;
+    font-size: 36px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.section3 .content {
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+}
+.section3 .content .quote{
+    
+    font-weight: 300;
+    font-style: italic;
+}
+.section3 .content .author{
+    text-align: right;
+}
 button {
     background-color: #3882f6;
     color: white;
