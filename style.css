@@ -71,27 +71,33 @@ body {
 }
 
 .section1 .left {
-    flex: 0 0 0vw;
-    min-width: 750px;
+    flex: 1 1 0;
+    min-width: 500px;
+    max-width: 750px;
     margin-left: 30px;
 }
 .section1 .right {
     background-color: grey;
-    flex: 0 0 0vw;
-    min-width: 750px;
+    flex: 1 1 0;
+    min-width: 500px;
+    max-width: 750px;
     min-height: 250px;
     display: flex;
     justify-content: center;
     align-items: center;
     margin-right: 30px;
+    
 }
 .section1 .title {
-    font-size: 48px;
+    font-size: 60px;
     font-weight: 900;
+    padding-right: 100px;
 }
 .section1 .content{
-    font-size: 18px;
+    font-size: 24px;
     color: #787d87;
+
+    padding-right: 100px;
 }
 /* <!-- /////////////////////////////////////////// --> */
 .section2{
