@@ -1,7 +1,7 @@
 # landing-page
 Second project of the foundations module of TOP: 
 
-🌐 Live preview: https://github.com/porkenvolf/landing-page
+🌐 Live preview: https://porkenvolf.github.io/landing-page/
 
 🔨 TOP assignment: https://www.theodinproject.com/lessons/foundations-landing-page
 
